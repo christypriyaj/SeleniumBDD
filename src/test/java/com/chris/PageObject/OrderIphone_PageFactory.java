@@ -20,6 +20,7 @@ public class OrderIphone_PageFactory {
 	
 	public void click_iPhone() {
 		iPhoneBtn.click();
+		System.out.println("Testing webhooks");
 	}
 	
 	public void click_cart() {
